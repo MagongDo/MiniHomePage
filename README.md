@@ -20,4 +20,6 @@ b=5
 print(a+b)
 ```
 
+장바구니 추가 
+
 ![쭈니](https://github.com/user-attachments/assets/9d43518a-f118-40c8-848e-cd8417808d9b)
